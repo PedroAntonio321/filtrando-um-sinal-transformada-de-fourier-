@@ -1,0 +1,2 @@
+O código foi criado no google colab, e calcula a transformada de Fourier de um sinal de áudio, e aplica um filtro seletor de frequência, para remover conteúdos de frequências indesejados
+como por exemplo um ruído de alta frequência
